@@ -48,7 +48,7 @@ Its a fun project to Host Flag using voice commands.
 
 https://www.linkedin.com/posts/akshayembedded_tricolor-independenceday2024-india-activity-7229726739705253889-6n8b?utm_source=share&utm_medium=member_desktop
 
-### Setup
+### Images
 ![Alt Text](board.jpg)
 ![Alt Text](vc02.jpg)
 
